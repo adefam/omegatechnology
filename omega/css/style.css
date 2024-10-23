@@ -1,0 +1,432 @@
+.navbar-default {
+    background-color:#8A6F76!important;
+   font-family: Futura Md BT !important;
+
+}
+
+body{
+ font-family: Futura Md BT;
+}
+
+#aboutus {
+    background-image: url("../images/abg.jpg");
+    background-size: 100%;
+}
+
+#contactus {
+    background-image: url("../images/cbg.jpg");
+    background-size: 100%;
+}
+
+h1{
+    text-align: right;
+   font-size: 4.8em;
+
+   color: #1E1C1C;
+   font-family: Futura Md BT;
+   margin: 50px 0 0 0;
+   margin: 50px 0 0 0;
+   }
+
+   .sh1{
+    text-align: right;
+   font-size: 4.8em;
+
+   color: white !important;
+   font-family: Futura Md BT;
+   margin: 50px 0 0 0;
+   margin: 50px 0 0 0;
+   }
+
+
+   .sh2{
+    text-align: left;
+   font-size: 4.8em;
+
+   color: white !important;
+   font-family: Futura Md BT;
+   margin: 50px 0 0 0;
+   margin: 50px 0 0 0;
+   }
+
+
+   .h1f{
+    font-size: 1.1em;
+    text-align: right;
+    color:white !important;
+
+}
+
+.sh5{
+    text-align: right;
+   font-size: 4.8em;
+
+   color: #8A6F76 !important;
+   font-family: Futura Md BT;
+   margin: 50px 0 0 0;
+   margin: 50px 0 0 0;
+   }
+
+@media (max-width: 768px){
+    h1{
+        font-size: 2.3em;
+    }
+   
+}
+
+h4{
+    text-align: right;
+    color: #1E1C1C;
+    font-family: Futura Md BT !important;
+
+}
+
+
+.ph4{
+    text-align: center;
+    color: #1E1C1C;
+    font-family: Futura Md BT !important;
+
+}
+
+h2 {
+    text-align: right;
+    color: #1E1C1C;
+    font-family: Futura Md BT !important;
+
+}
+
+#p1{ 
+    text-align: center !important;
+color: #1E1C1C;
+font-family: Futura Md BT;
+
+
+}
+
+#p2{ 
+    text-align: left;
+color: #33363a;
+word-spacing: 1px;
+font-family: Futura Md BT;
+}
+
+#p3{ 
+    text-align: center;
+color: #33363a;
+word-spacing: 1px;
+font-family: Futura Md BT;
+size: 50px;
+}
+
+#p4{ 
+    text-align: justify !important;
+    font-family: Futura Md BT;
+    font-size: 16px;
+}
+
+
+
+#cc{
+background-image: url("../images/cc.png");
+background-size: 130px;
+background-repeat: no-repeat;
+background-position: top;
+}
+
+
+.jumbotron p {
+    text-align: justify !important;
+    font-family: Futura Md BT;
+    font-size: 18px;
+}
+
+
+#jbg{
+    background-color:  #33363ae1;
+}
+
+
+
+
+
+
+.bimage{
+    background-image: url("../images/banner1.jpg") !important;
+    max-width: 100%;
+    height:auto;
+    /* width: 100%; */
+    background-repeat: no-repeat !important;
+    background-size: 100% 100vh;
+}
+@media (min-width: 300px) {
+    .bimage{
+        width: 100% !important;
+        height: 100%; 
+        background-size: cover; 
+    }
+}
+@media (min-width: 768px) {
+        .bimage{
+            width: 100% !important;
+            height: 98vh; 
+            background-size: cover; 
+        }
+    }
+    .bwelcome {
+        padding-top: 25px;
+        padding-bottom: 25px;   
+    }
+    .bimage .bparag {
+        font-size: 1.1em;
+        text-align: right;
+        color:#1E1C1C;
+        margin: 25px 0 25px 0;
+        font-family: Futura Md BT;
+    }
+    @media (min-width: 768px) {
+       .bimage .bparag {
+            width: 400px;
+            float: right;
+            left: auto;
+        }
+    }
+.bimage .btn {
+    margin: auto;
+}
+.btn-success {
+    background-color:#8A6F76;
+    border: #8A6F76;
+    font-size: 20px;
+}
+
+
+
+
+.bimage a {
+    float: right;
+}
+
+.p4{ 
+text-align: justify !important;
+color: #33363a;
+font-size:18px;
+font-family:Futura Md BT;
+}
+
+#p7 { 
+    text-align: right !important;
+    color: #33363a;
+    font-size: 16px;
+    font-family:Futura Md BT;
+}
+    
+
+#p5{ 
+text-align: right !important;
+color: #33363a;
+size: 20px;
+font-family:Futura Md BT;
+}
+
+#thumbnail2 img {
+    width: 500px!important;
+    height: 250px!important;
+}
+
+.thumbnail2 h3 {
+	color: #33363a !important ;
+	font-family:Futura Md BT !important;
+}
+
+.thumbnail2 .caption p {
+    color: #33363a !important ;
+	text-align: justify;
+	font-family:Futura Md BT !important;
+}
+
+.thumbnail img {
+    width: 500px;
+    height: 320px;   
+}
+
+
+.thumbnail h3 {
+    color: #33363a !important ;
+	font-family:Futura Md BT !important;
+}
+
+.thumbnail .caption p {
+    color: #33363a !important ;
+	text-align: justify;
+	font-family:Futura Md BT !important;
+}
+
+.bimage2{
+    background-image: url("../images/banner2.jpg") !important;
+    max-width: 100%;
+    height:auto;
+    /* width: 100%; */
+    background-repeat: no-repeat !important;
+    background-size: 100% 100vh;
+}
+@media (min-width: 300px) {
+    .bimage2{
+        width: 100% !important;
+        height: 100%; 
+        background-size: cover; 
+    }
+}
+    @media (min-width: 768px) {
+        .bimage2{
+            width: 100% !important;
+            height: 98vh; 
+            background-size: 100% 100%; 
+        }
+
+    }
+
+    .bwelcome2 {
+        padding-top: 25px;
+        padding-bottom: 25px;
+        
+    }
+    .bimage2 .bparag2 {
+        font-size: 1.1em;
+        text-align: left;
+        color:#1E1C1C;
+        margin: 25px 0 25px 0;
+        font-family: Futura Md BT;
+    }
+@media (min-width: 768px) {
+       .bimage2 .bparag2 {
+            width: 400px;
+            float: left ;
+            left: auto;
+        }
+    }
+.bimage3{
+    background-image: url("../images/banner3.jpg") !important;
+    max-width: 100%;
+    height:auto;
+    /* width: 100%; */
+    background-repeat: no-repeat !important;
+    background-size: 100% 100vh;
+}
+@media (min-width: 300px) {
+    .bimage3{
+        width: 100% !important;
+        height: 100%; 
+        background-size: cover; 
+    }
+}
+@media (min-width: 768px) {
+        .bimage3{
+            width: 100% !important;
+            height: 98vh; 
+            background-size: 100% 100%; 
+        }
+
+    }
+    .bwelcome3 {
+        padding-top: 25px;
+        padding-bottom: 25px;
+        
+    }
+    .bimage3 .bparag3 {
+        font-size: 1.1em;
+        text-align: right;
+        color:#1E1C1C;
+        margin: 25px 0 25px 0;
+        font-family: Futura Md BT;
+    }
+    @media (min-width: 768px) {
+       .bimage3 .bparag3 {
+            width: 400px;
+            float: right;
+            left: auto;
+        }
+    }
+
+
+
+
+
+    .bimage4{
+        background-image: url("../images/banner4.jpg") !important;
+        max-width: 100%;
+        height:auto;
+        /* width: 100%; */
+        background-repeat: no-repeat !important;
+        background-size: 100% 100vh;
+    }
+    @media (min-width: 300px) {
+        .bimage4{
+            width: 100% !important;
+            height: 100%; 
+            background-size: cover; 
+        }
+    }
+        @media (min-width: 768px) {
+            .bimage4{
+                width: 100% !important;
+                height: 98vh; 
+                background-size: 100% 100%; 
+            }
+    
+        }
+    
+    
+    
+        .bwelcome4 {
+            padding-top: 25px;
+            padding-bottom: 25px;
+            
+        }
+        .bimage4 .bparag4 {
+            font-size: 1.1em;
+            text-align: right;
+            color:#1E1C1C;
+            margin: 25px 0 25px 0;
+            font-family: Futura Md BT;
+        }
+        @media (min-width: 768px) {
+           .bimage4 .bparag4 {
+                width: 400px;
+                float: right;
+                left: auto;
+            }
+        }
+.footer {
+    background-color:#8A6F76 ;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 5px;    
+}
+
+.footer a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+.dropdown .dropdown-menu a:hover {
+    background-color: red;
+    color: white;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    color: #fff;
+    background-color: #8A6F76 !important;
+}
+
+@media (max-width: 767px){
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #fff;
+}
+}
+
+.letwork {
+	margin-top: 50px;
+}
